@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chatUnicorn
 - 👀 We develop and maintain interactive voice services
-- 🌱 We are currently learning Flutter and LLM Models
+- 🌱 We are currently learning Flutter, LLM Models and dart-ctags
 - 💞️ We are looking to collaborate on AI
 
   
